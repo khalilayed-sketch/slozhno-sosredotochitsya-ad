@@ -1,14 +1,9 @@
 # Проект "Сложно сосредоточиться"
 
+Ссылка на GitHub: https://github.com/khalilayed-sketch/slozhno-sosredotochitsya-ad
+
 Адаптивный сайт с тёмной и светлой темами.
 
-## Описание
-Сайт о концентрации внимания.
-
-## Технологии
-- HTML5
-- CSS3
-- JavaScript
-
 ## Автор
-Хошиех Халиль
+khalilayed-sketch
+GitHub: https://github.com/khalilayed-sketch/slozhno-sosredotochitsya-ad
